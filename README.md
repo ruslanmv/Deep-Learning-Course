@@ -1,7 +1,7 @@
 
 # Deep Learning Course Repository
 
-This repository is dedicated to sharing my personal journey and notes on Deep Learning as a professional Data Scientist. These notes are part of a course I took at IBM, and I hope they will be beneficial for other Data Scientists and enthusiasts looking to learn and grow in this field.
+This repository is dedicated to sharing my personal journey and notes on Deep Learning as a professional Data Scientist. These notes are part of a my course, and I hope they will be beneficial for other Data Scientists and enthusiasts looking to learn and grow in this field.
 
 In this repository, you will find labs, notes, and resources related to the following course outline:
 
