@@ -12,7 +12,7 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Calculus**: Understanding derivatives, integrals, limits, and series. Multivariable calculus and the concept of gradients are also important.
 * **Probability and Statistics**: Understanding probability theory, random variables, probability distributions, expectations, variance, covariance, correlation, hypothesis testing, confidence intervals, maximum likelihood estimation, and Bayesian inference.
 
-[### 1. **Introduction to Deep Learning**](1-Introduction-Deep-Learning/docs/1-Introduction-Deep-Learning/README.md)
+### 1. [**Introduction to Deep Learning**](1-Introduction-Deep-Learning/docs/1-Introduction-Deep-Learning/README.md)
 
 * **Mathematical Building Blocks**: Understanding the mathematical foundations of deep learning, including linear algebra, calculus, and probability theory.
 * **A First Look at a Neural Network**: Introduction to the basic concepts of neural networks, including perceptrons, multilayer perceptrons, and backpropagation.
@@ -21,14 +21,14 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Predicting House Prices**: Hands-on exercise in building a neural network to predict house prices.
 * **Overfitting and Underfitting**: Understanding the concepts of overfitting and underfitting in neural networks.
 
-[### 2. **Neural Networks with Keras**](2-Neural-Networks-with-Keras/README.md)
+### 2. [**Neural Networks with Keras**](2-Neural-Networks-with-Keras/README.md)
 
 * **Introduction to Keras and TensorFlow**: Introduction to the Keras and TensorFlow libraries for building neural networks.
 * **Getting Started with Neural Networks**: Hands-on exercise in building a neural network using Keras.
 * **Fundamentals of Machine Learning**: Understanding the basics of machine learning, including supervised and unsupervised learning, regression, and classification.
 * **Working with Keras**: Hands-on exercise in building and training neural networks using Keras.
 
-[### 3. **Computer Vision**](3-Computer-Vision/README.md)
+### 3. [**Computer Vision**](3-Computer-Vision/README.md)
 
 * **Introduction to Deep Learning for Computer Vision**: Introduction to the basics of computer vision and deep learning.
 * **Image Segmentation**: Hands-on exercise in building a neural network to perform image segmentation.
@@ -36,7 +36,7 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Interpreting What ConvNets Learn**: Understanding how to interpret the outputs of convolutional neural networks.
 * **Deep Learning for Time Series**: Introduction to deep learning for time series data.
 
-[### 4. **Natural Language Processing**](4-Natural-Language-Processing/README.md)
+### 4. [**Natural Language Processing**](4-Natural-Language-Processing/README.md)
 
 * **Introduction to PyTorch**: Introduction to the PyTorch library for building neural networks.
 * **Sequence Models**: Hands-on exercise in building sequence models using PyTorch.
@@ -48,14 +48,14 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Variational Autoencoders**: Introduction to variational autoencoders and their applications.
 * **Generative Adversarial Networks (GANs)**: Introduction to GANs and their applications.
 
-[### 5. **Convolutional Neural Networks (CNNs)**](5-Convolutional-Neural-Networks/README.md)
+### 5. [**Convolutional Neural Networks (CNNs)**](5-Convolutional-Neural-Networks/README.md)
 
 * **Introduction to ConvNets**: Introduction to the basics of convolutional neural networks.
 * **Using ConvNets with Small Datasets**: Hands-on exercise in building a convolutional neural network to classify images with small datasets.
 * **Using a Pretrained ConvNet**: Hands-on exercise in using a pretrained convolutional neural network for image classification.
 * **Visualizing What ConvNets Learn**: Understanding how to visualize the outputs of convolutional neural networks.
 
-[### 6. **Recurrent Neural Networks (RNNs)**](6-Recurrent-Neural-networks/README.md)
+### 6. [**Recurrent Neural Networks (RNNs)**](6-Recurrent-Neural-networks/README.md)
 
 * **Introduction to RNNs**: Introduction to the basics of recurrent neural networks.
 * **Advanced Usage of RNNs**: Hands-on exercise in building advanced recurrent neural networks for sequence data.
