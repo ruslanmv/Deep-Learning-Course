@@ -43,8 +43,8 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Transformer**: Introduction to the transformer architecture for sequence-to-sequence learning.
 * **Sequence-to-Sequence Learning**: Hands-on exercise in building sequence-to-sequence models using PyTorch.
 * **Text Generation**: Hands-on exercise in building a text generation model using PyTorch.
-* **Deep Dream**: Hands-on exercise in building a deep dream model using PyTorch.
-* **Neural Style Transfer**: Hands-on exercise in building a neural style transfer model using PyTorch.
+* **Deep Dream**: Hands-on exercise in building a deep dream model.
+* **Neural Style Transfer**: Hands-on exercise in building a neural style transfer model .
 * **Variational Autoencoders**: Introduction to variational autoencoders and their applications.
 * **Generative Adversarial Networks (GANs)**: Introduction to GANs and their applications.
 
