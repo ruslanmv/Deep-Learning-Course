@@ -36,7 +36,7 @@ In this repository, you will find labs, notes, and resources related to the foll
 * **Interpreting What ConvNets Learn**: Understanding how to interpret the outputs of convolutional neural networks.
 * **Deep Learning for Time Series**: Introduction to deep learning for time series data.
 
-### 4. **Deep Learning with PyTorch**
+### 4. **Natural Language Processing**
 
 * **Introduction to PyTorch**: Introduction to the PyTorch library for building neural networks.
 * **Sequence Models**: Hands-on exercise in building sequence models using PyTorch.
