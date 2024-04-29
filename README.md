@@ -116,19 +116,19 @@ A list of notebooks related to large language models.
 | [3.3-interpreting-what-convnets-learn](/3-Computer-Vision/3.3-interpreting-what-convnets-learn.ipynb) | Understanding how to interpret the outputs of convolutional neural networks |
 | [3.4-dl-for-timeseries](/3-Computer-Vision/3.4-dl-for-timeseries.ipynb) | Introduction to deep learning for time series data |
 
-## 4-Deep-Learning-with-PyTorch
+## 4-Natural-Language-Processing
 
 | Notebook | Description |
 | --- | --- |
-| [4.1_introduction](/4-Deep-Learning-with-PyTorch/4.1_introduction.ipynb) | Introduction to PyTorch for building neural networks |
-| [4.2-sequence-models](/4-Deep-Learning-with-PyTorch/4.equence-models.ipynb) | Hands-on exercise in building sequence models using PyTorch |
-| [4.3-transformer](/4-Deep-Learning-with-PyTorch/4.3-transformer.ipynb) | Introduction to the transformer architecture for sequence-to-sequence learning |
-| [4.4-sequence-to-sequence-learning](/4-Deep-Learning-with-PyTorch/4.4-sequence-to-sequence-learning.ipynb) | Hands-on exercise in building sequence-to-sequence models using PyTorch |
-| [4.5-text-generation](/4-Deep-Learning-with-PyTorch/4.5-text-generation.ipynb) | Hands-on exercise in building a text generation model using PyTorch |
-| [4.6-deep-dream](/4-Deep-Learning-with-PyTorch/4.6-deep-dream.ipynb) | Hands-on exercise in building a deep dream model using PyTorch |
-| [4.7-neural-style-transfer](/4-Deep-Learning-with-PyTorch/4.7-neural-style-transfer.ipynb) | Hands-on exercise in building a neural style transfer model using PyTorch |
-| [4.8-variational-autoencoders](/4-Deep-Learning-with-PyTorch/4.8-variational-autoencoders.ipynb) | Introduction to variational autoencoders and their applications |
-| [4.9-gans](/4-Deep-Learning-with-PyTorch/4.9-gans.ipynb) | Introduction to generative adversarial networks and their applications |
+| [4.1_introduction](/4-Natural-Language-Processing/4.1_introduction.ipynb) | Introduction to PyTorch for building neural networks |
+| [4.2-sequence-models](/4-Natural-Language-Processing/4.equence-models.ipynb) | Hands-on exercise in building sequence models using PyTorch |
+| [4.3-transformer](/4-Natural-Language-Processing/4.3-transformer.ipynb) | Introduction to the transformer architecture for sequence-to-sequence learning |
+| [4.4-sequence-to-sequence-learning](/4-Natural-Language-Processing/4.4-sequence-to-sequence-learning.ipynb) | Hands-on exercise in building sequence-to-sequence models using PyTorch |
+| [4.5-text-generation](/4-Natural-Language-Processing/4.5-text-generation.ipynb) | Hands-on exercise in building a text generation |
+| [4.6-deep-dream](/4-Natural-Language-Processing/4.6-deep-dream.ipynb) | Hands-on exercise in building a deep dream  |
+| [4.7-neural-style-transfer](/4-Natural-Language-Processing/4.7-neural-style-transfer.ipynb) | Hands-on exercise in building a neural style transfer |
+| [4.8-variational-autoencoders](/4-Natural-Language-Processing/4.8-variational-autoencoders.ipynb) | Introduction to variational autoencoders and their applications |
+| [4.9-gans](/4-Natural-Language-Processing/4.9-gans.ipynb) | Introduction to generative adversarial networks and their applications |
 
 ## 5-Convolutional-Neural-Networks
 
