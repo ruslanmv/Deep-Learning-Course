@@ -121,7 +121,7 @@ A list of notebooks related to large language models.
 | Notebook | Description |
 | --- | --- |
 | [4.1_introduction](/4-Natural-Language-Processing/4.1_introduction.ipynb) | Introduction to PyTorch for building neural networks |
-| [4.2-sequence-models](/4-Natural-Language-Processing/4.equence-models.ipynb) | Hands-on exercise in building sequence models using PyTorch |
+| [4.2-sequence-models](/4-Natural-Language-Processing/4.sequence-models.ipynb) | Hands-on exercise in building sequence models using PyTorch |
 | [4.3-transformer](/4-Natural-Language-Processing/4.3-transformer.ipynb) | Introduction to the transformer architecture for sequence-to-sequence learning |
 | [4.4-sequence-to-sequence-learning](/4-Natural-Language-Processing/4.4-sequence-to-sequence-learning.ipynb) | Hands-on exercise in building sequence-to-sequence models using PyTorch |
 | [4.5-text-generation](/4-Natural-Language-Processing/4.5-text-generation.ipynb) | Hands-on exercise in building a text generation |
